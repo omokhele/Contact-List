@@ -1,4 +1,3 @@
-
 import './App.css';
 import ContactList from './components/ContactList';
 

@@ -1,0 +1,28 @@
+.image {
+    border: solid black;
+    border-radius: 50px;
+    margin: 40px;
+    
+}
+
+.outerDiv{
+    margin: 50px;
+    border: solid black;
+    width: 350px;
+    /* padding: 10px; */
+}
+
+.innerDiv{
+display: flex;
+border-bottom: solid grey;
+border-width: 1px;
+/* align-items: center;
+justify-content:center; */
+}
+
+
+/* .innerMostDiv{
+display: flex;
+flex-direction: column;
+} */
+
